@@ -1,0 +1,6 @@
+.git
+.gitignore
+.gitattributes
+.assetsignore
+.claude
+wrangler.jsonc
